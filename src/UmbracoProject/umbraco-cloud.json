@@ -1,7 +1,18 @@
 {
   "Deploy": {
     "Project": {
-      "Workspaces": []
+      "Name": "jerins calm otter",
+      "Alias": "jerins-calm-otter",
+      "Id": "445059f0-f375-4adc-b72f-31478f3b3134",
+      "TrialExpireDate": "2026-07-14T14:51:26.0000000",
+      "Workspaces": [
+        {
+          "Id": "30060ddd-7e27-46c2-ba45-ea988acde8ab",
+          "Name": "Live",
+          "Type": "live",
+          "Url": "https://jerins-calm-otter.euwest01.umbraco.io"
+        }
+      ]
     },
     "Settings": {}
   },
