@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Training\\dev-jerins-calm-otter\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3546F90A-8C02-8677-B7BC-F34E39C9C804}|UmbracoProject\\UmbracoProject.csproj|d:\\training\\dev-jerins-calm-otter\\src\\umbracoproject\\views\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3546F90A-8C02-8677-B7BC-F34E39C9C804}|UmbracoProject\\UmbracoProject.csproj|solutionrelative:umbracoproject\\views\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3546F90A-8C02-8677-B7BC-F34E39C9C804}|UmbracoProject\\UmbracoProject.csproj|d:\\training\\dev-jerins-calm-otter\\src\\umbracoproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3546F90A-8C02-8677-B7BC-F34E39C9C804}|UmbracoProject\\UmbracoProject.csproj|solutionrelative:umbracoproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3546F90A-8C02-8677-B7BC-F34E39C9C804}|UmbracoProject\\UmbracoProject.csproj|d:\\training\\dev-jerins-calm-otter\\src\\umbracoproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3546F90A-8C02-8677-B7BC-F34E39C9C804}|UmbracoProject\\UmbracoProject.csproj|solutionrelative:umbracoproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3546F90A-8C02-8677-B7BC-F34E39C9C804}|UmbracoProject\\UmbracoProject.csproj|d:\\training\\dev-jerins-calm-otter\\src\\umbracoproject\\views\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3546F90A-8C02-8677-B7BC-F34E39C9C804}|UmbracoProject\\UmbracoProject.csproj|solutionrelative:umbracoproject\\views\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3546F90A-8C02-8677-B7BC-F34E39C9C804}|UmbracoProject\\UmbracoProject.csproj|d:\\training\\dev-jerins-calm-otter\\src\\umbracoproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -33,11 +37,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Training\\dev-jerins-calm-otter\\src\\UmbracoProject\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "UmbracoProject\\appsettings.Development.json",
+              "ToolTip": "D:\\Training\\dev-jerins-calm-otter\\src\\UmbracoProject\\appsettings.Development.json",
+              "RelativeToolTip": "UmbracoProject\\appsettings.Development.json",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-02T15:18:57.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\Training\\dev-jerins-calm-otter\\src\\UmbracoProject\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "UmbracoProject\\Views\\_ViewImports.cshtml",
@@ -56,14 +73,14 @@
               "RelativeDocumentMoniker": "UmbracoProject\\appsettings.json",
               "ToolTip": "D:\\Training\\dev-jerins-calm-otter\\src\\UmbracoProject\\appsettings.json",
               "RelativeToolTip": "UmbracoProject\\appsettings.json",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAcwBwAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-07-01T16:40:10.598Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CloudDeployWebhookController.cs",
               "DocumentMoniker": "D:\\Training\\dev-jerins-calm-otter\\src\\UmbracoProject\\Controllers\\CloudDeployWebhookController.cs",
               "RelativeDocumentMoniker": "UmbracoProject\\Controllers\\CloudDeployWebhookController.cs",
@@ -76,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "HomePage.cshtml",
               "DocumentMoniker": "D:\\Training\\dev-jerins-calm-otter\\src\\UmbracoProject\\Views\\HomePage.cshtml",
               "RelativeDocumentMoniker": "UmbracoProject\\Views\\HomePage.cshtml",
@@ -89,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Training\\dev-jerins-calm-otter\\src\\UmbracoProject\\Program.cs",
               "RelativeDocumentMoniker": "UmbracoProject\\Program.cs",
@@ -102,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",

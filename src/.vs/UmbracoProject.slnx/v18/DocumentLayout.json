@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "D:\\Training\\dev-jerins-calm-otter\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3546F90A-8C02-8677-B7BC-F34E39C9C804}|UmbracoProject\\UmbracoProject.csproj|d:\\training\\dev-jerins-calm-otter\\src\\umbracoproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3546F90A-8C02-8677-B7BC-F34E39C9C804}|UmbracoProject\\UmbracoProject.csproj|solutionrelative:umbracoproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3546F90A-8C02-8677-B7BC-F34E39C9C804}|UmbracoProject\\UmbracoProject.csproj|d:\\training\\dev-jerins-calm-otter\\src\\umbracoproject\\views\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3546F90A-8C02-8677-B7BC-F34E39C9C804}|UmbracoProject\\UmbracoProject.csproj|solutionrelative:umbracoproject\\views\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3546F90A-8C02-8677-B7BC-F34E39C9C804}|UmbracoProject\\UmbracoProject.csproj|d:\\training\\dev-jerins-calm-otter\\src\\umbracoproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3546F90A-8C02-8677-B7BC-F34E39C9C804}|UmbracoProject\\UmbracoProject.csproj|solutionrelative:umbracoproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3546F90A-8C02-8677-B7BC-F34E39C9C804}|UmbracoProject\\UmbracoProject.csproj|d:\\training\\dev-jerins-calm-otter\\src\\umbracoproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3546F90A-8C02-8677-B7BC-F34E39C9C804}|UmbracoProject\\UmbracoProject.csproj|solutionrelative:umbracoproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3546F90A-8C02-8677-B7BC-F34E39C9C804}|UmbracoProject\\UmbracoProject.csproj|d:\\training\\dev-jerins-calm-otter\\src\\umbracoproject\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3546F90A-8C02-8677-B7BC-F34E39C9C804}|UmbracoProject\\UmbracoProject.csproj|solutionrelative:umbracoproject\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3546F90A-8C02-8677-B7BC-F34E39C9C804}|UmbracoProject\\UmbracoProject.csproj|d:\\training\\dev-jerins-calm-otter\\src\\umbracoproject\\umbraco\\deploy\\deploy.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3546F90A-8C02-8677-B7BC-F34E39C9C804}|UmbracoProject\\UmbracoProject.csproj|solutionrelative:umbracoproject\\umbraco\\deploy\\deploy.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3546F90A-8C02-8677-B7BC-F34E39C9C804}|UmbracoProject\\UmbracoProject.csproj|d:\\training\\dev-jerins-calm-otter\\src\\umbracoproject\\umbraco\\deploy\\deploy-complete||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3546F90A-8C02-8677-B7BC-F34E39C9C804}|UmbracoProject\\UmbracoProject.csproj|solutionrelative:umbracoproject\\umbraco\\deploy\\deploy-complete||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3546F90A-8C02-8677-B7BC-F34E39C9C804}|UmbracoProject\\UmbracoProject.csproj|d:\\training\\dev-jerins-calm-otter\\src\\umbracoproject\\views\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -42,19 +58,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "test.cshtml",
+              "DocumentMoniker": "D:\\Training\\dev-jerins-calm-otter\\src\\UmbracoProject\\Views\\test.cshtml",
+              "RelativeDocumentMoniker": "UmbracoProject\\Views\\test.cshtml",
+              "ToolTip": "D:\\Training\\dev-jerins-calm-otter\\src\\UmbracoProject\\Views\\test.cshtml",
+              "RelativeToolTip": "UmbracoProject\\Views\\test.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-02T16:11:41.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Training\\dev-jerins-calm-otter\\src\\UmbracoProject\\.gitignore",
+              "RelativeDocumentMoniker": "UmbracoProject\\.gitignore",
+              "ToolTip": "D:\\Training\\dev-jerins-calm-otter\\src\\UmbracoProject\\.gitignore",
+              "RelativeToolTip": "UmbracoProject\\.gitignore",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-02T16:10:52.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "deploy-complete",
+              "DocumentMoniker": "D:\\Training\\dev-jerins-calm-otter\\src\\UmbracoProject\\umbraco\\Deploy\\deploy-complete",
+              "RelativeDocumentMoniker": "UmbracoProject\\umbraco\\Deploy\\deploy-complete",
+              "ToolTip": "D:\\Training\\dev-jerins-calm-otter\\src\\UmbracoProject\\umbraco\\Deploy\\deploy-complete",
+              "RelativeToolTip": "UmbracoProject\\umbraco\\Deploy\\deploy-complete",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-02T16:10:44.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "deploy.log",
+              "DocumentMoniker": "D:\\Training\\dev-jerins-calm-otter\\src\\UmbracoProject\\umbraco\\Deploy\\deploy.log",
+              "RelativeDocumentMoniker": "UmbracoProject\\umbraco\\Deploy\\deploy.log",
+              "ToolTip": "D:\\Training\\dev-jerins-calm-otter\\src\\UmbracoProject\\umbraco\\Deploy\\deploy.log",
+              "RelativeToolTip": "UmbracoProject\\umbraco\\Deploy\\deploy.log",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-02T16:10:39.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\Training\\dev-jerins-calm-otter\\src\\UmbracoProject\\appsettings.Development.json",
               "RelativeDocumentMoniker": "UmbracoProject\\appsettings.Development.json",
               "ToolTip": "D:\\Training\\dev-jerins-calm-otter\\src\\UmbracoProject\\appsettings.Development.json",
               "RelativeToolTip": "UmbracoProject\\appsettings.Development.json",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-07-02T15:18:57.94Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\Training\\dev-jerins-calm-otter\\src\\UmbracoProject\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "UmbracoProject\\Views\\_ViewImports.cshtml",
@@ -62,8 +130,7 @@
               "RelativeToolTip": "UmbracoProject\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-01T17:14:36.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T17:14:36.384Z"
             },
             {
               "$type": "Document",
@@ -73,14 +140,14 @@
               "RelativeDocumentMoniker": "UmbracoProject\\appsettings.json",
               "ToolTip": "D:\\Training\\dev-jerins-calm-otter\\src\\UmbracoProject\\appsettings.json",
               "RelativeToolTip": "UmbracoProject\\appsettings.json",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBcAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-07-01T16:40:10.598Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "CloudDeployWebhookController.cs",
               "DocumentMoniker": "D:\\Training\\dev-jerins-calm-otter\\src\\UmbracoProject\\Controllers\\CloudDeployWebhookController.cs",
               "RelativeDocumentMoniker": "UmbracoProject\\Controllers\\CloudDeployWebhookController.cs",
@@ -88,12 +155,11 @@
               "RelativeToolTip": "UmbracoProject\\Controllers\\CloudDeployWebhookController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T16:41:46.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T16:41:46.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "HomePage.cshtml",
               "DocumentMoniker": "D:\\Training\\dev-jerins-calm-otter\\src\\UmbracoProject\\Views\\HomePage.cshtml",
               "RelativeDocumentMoniker": "UmbracoProject\\Views\\HomePage.cshtml",
@@ -101,12 +167,11 @@
               "RelativeToolTip": "UmbracoProject\\Views\\HomePage.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-01T15:53:33.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T15:53:33.06Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Training\\dev-jerins-calm-otter\\src\\UmbracoProject\\Program.cs",
               "RelativeDocumentMoniker": "UmbracoProject\\Program.cs",
@@ -114,19 +179,17 @@
               "RelativeToolTip": "UmbracoProject\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T15:53:01.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T15:53:01.545Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AgIAAPUUAAAAAAAAAAAcwBUVAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2026-06-30T16:29:07.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T16:29:07.219Z"
             }
           ]
         }
